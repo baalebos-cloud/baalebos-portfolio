@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://portfolio.baalebo.xyz/Sitemap.xml
+Sitemap: https://portfolio.baalebo.xyz/sitemap.xml
