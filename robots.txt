@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-sitemap: https://portfolio.baalebo.xyz/robots.txt
+sitemap: https://a582879.sitemaphosting7.com/4690212/sitemap_4690212.xml
